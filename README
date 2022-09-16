@@ -22,9 +22,8 @@ different types of edits, especially ones that have the same edits (flipping,
 brightening/darkening, grey scaling etc.) + more.
 
 View
-As of right now, our view doesn't have too much since we're not using it all that much. However,
-we created a SuperPhotoEditorView interface and BasicPhotoEditorView class that just renders a
-message.
+We created a SuperPhotoEditorView interface and BasicPhotoEditorView class that just renders a
+message for now.
 
 Controller
 Our controller has a SuperPhotoEditorController interface and a BasicPhotoEditorController class.
